@@ -11,11 +11,11 @@ A small React + Vite dashboard designed for students to track tasks and study ha
 
 ## Features current
 
-- ✅ Clean layout with Header, Footer, and Home page
-- ✅ Tasks section showing “Today’s Focus”
-- ⏳ Add new tasks via input + button
-- ⏳ Persist tasks to `localStorage` so they survive refresh
-- ⏳ Separate pages for Tasks / Habits / Settings using React Router
+- Clean layout with Header, Footer, and Home page
+- Tasks section showing “Today’s Focus”
+- Add new tasks via input + button
+- Persist tasks to `localStorage` so they survive refresh
+- Separate pages for Tasks / Habits / Settings using React Router
 
 ## Getting Evereything Set Up 
 ```bash
