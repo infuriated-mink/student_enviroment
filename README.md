@@ -27,14 +27,13 @@ Empty state messaging
 
 Component architecture:
 
-TodoList (parent component managing state)
-TodoItem (child component for individual tasks)
+TodoList 
+
+TodoItem 
+
 Separate page components (Home, About, Contact)
 
 
-State management using React hooks (useState)
-Dark mode UI with inline styles
-Event handling for forms and clicks
 
 ## Getting Evereything Set Up 
 ```bash
