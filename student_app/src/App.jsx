@@ -1,8 +1,15 @@
+import { Routes, Route } from "react-router-dom";
+import MainLayout from "./layout/mainLayout.jsx";
+import Home from "./pages/Home.jsx";
+import Tasks from "./components/Tasks.jsx";
+
 export default function App() {
   return (
-    <div style={{ padding: "2rem" }}>
-      <h1>Student Enviro App</h1>
-      <p>This text is coming from App.jsx.</p>
-    </div>
+    <MainLayout>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/tasks" element={<Tasks />} />
+      </Routes>
+    </MainLayout>
   );
 }
