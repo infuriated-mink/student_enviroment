@@ -52,6 +52,7 @@ src/
 
 # Clone the repo
 git clone https://github.com/Britten66/student_enviroment.git
+cd student_enviroment
 cd student_app
 
 # Install dependencies
