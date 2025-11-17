@@ -40,8 +40,7 @@ Separate page components (Home, About, Contact)
 
 
 # Clone the repo
-git clone https://github.com/<your-username>/student-enviro-app.git
-
+git clone https://github.com/Britten66/student_enviroment.git
 cd student_app
 
 # Install dependencies
